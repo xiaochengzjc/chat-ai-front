@@ -10407,13 +10407,11 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _default = {
   // api请求前缀
-  baseUrl: 'https://chat-ai.ai-love.cn/api',
-  wsUrl: 'wss://chat-ai.ai-love.cn/api/ws',
-  //baseUrl:'http://chat-ai.ai-love.local/api',
-  //wsUrl:'ws://chat-ai.ai-love.local/api/ws',
+  baseUrl: 'https://你的域名/api',
+  wsUrl: 'wss://你的域名/api/ws',
   app: {
-    app_secret: 'hGAHbEwaEan6pMNb',
-    app_key: 'acg53534896',
+    app_secret: '***',
+    app_key: '***',
     version: '1.0'
   }
 };
