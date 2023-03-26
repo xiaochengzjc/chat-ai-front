@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "小AI",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#55aaff",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "u-transition": "/node-modules/uview-ui/components/u-transition/u-transition",
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "u-loading-icon": "/node-modules/uview-ui/components/u-loading-icon/u-loading-icon",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

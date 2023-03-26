@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/chat/chat",
+    "pages/login/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "人工智能小AI",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff"
+  },
+  "permission": {},
+  "usingComponents": {}
+}
